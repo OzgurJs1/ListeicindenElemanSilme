@@ -1,1 +1,2 @@
 # ListeicindenElemanSilme
+Bu kod bir bağlı liste oluşturuyor ve verilen bir anahtar değerine sahip düğümü listeden silen bir fonksiyon içeriyor. İlk olarak, bağlı liste düğümleri tanımlanır ve verilen anahtar değerinin listede bulunup bulunmadığı kontrol edilir. Anahtar değerine sahip bir düğüm bulunursa, önceki düğümün işaret ettiği düğümün işaretçisi, silinecek düğümün işaretçisine eşitlenir ve eski düğüm bellekten serbest bırakılır. İlk düğüm silinecekse, başlangıç düğümü değiştirilir. Sonuç olarak, listenin son hali yazdırılır.
